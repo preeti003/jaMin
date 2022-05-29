@@ -20,9 +20,13 @@ Things i learnt:
 <h2>Installation</h2>
 
 <p>
--->clone useless
+-->clone https://github.com/preeti003/API
+-->execute pip install requirements in cmd of this repo
+-->execute py hello.py
 -->clone this repo
-Execute this command in terminal --> 
+-->execute npm i 
+-->execute npm start
+Execute this command in terminal as administrator -->  
 "[PATH TO CHROME]\chrome.exe" --disable-web-security  --user-data-dir=~/chromeTemp
 </p>
 <h2>LICENSE</h2>
